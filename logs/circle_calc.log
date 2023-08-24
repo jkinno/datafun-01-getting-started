@@ -1,0 +1,11 @@
+2023-08-23 20:21:47,885.circle_calc.INFO ==================================================
+2023-08-23 20:21:47,885.circle_calc.INFO Today is 2023-08-23 at 08:21 PM
+2023-08-23 20:21:47,973.circle_calc.INFO Running on: nt Windows 10
+2023-08-23 20:21:47,973.circle_calc.INFO Python version:  3.11.4
+2023-08-23 20:21:47,973.circle_calc.INFO Python path: C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.1264.0_x64__qbz5n2kfra8p0
+2023-08-23 20:21:47,973.circle_calc.INFO Working dir: C:\Users\JKinn\Desktop\Respository\datafun-01-getting-started
+2023-08-23 20:21:47,973.circle_calc.INFO ==================================================
+2023-08-23 20:21:57,025.circle_calc.INFO The area of a circle with radius 4.0 is 50.26548245743669.
+2023-08-23 20:21:57,025.circle_calc.INFO Eww... that's a lot of decimal places - tmi!
+2023-08-23 20:21:57,025.circle_calc.INFO The area of a circle with radius 4.0 is 50.27.
+2023-08-23 20:21:57,025.circle_calc.INFO Much better! (After you fix it.)
